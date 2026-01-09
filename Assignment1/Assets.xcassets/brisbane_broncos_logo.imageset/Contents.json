@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Brisbane_Broncos_Logo_2026.svg.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Brisbane_Broncos_Logo_2026.svg@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Brisbane_Broncos_Logo_2026.svg@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
